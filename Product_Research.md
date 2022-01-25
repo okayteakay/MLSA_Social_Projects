@@ -1,5 +1,5 @@
 
-# MIXED REALITY
+<h1 align="center">MIXED REALITY WITH HOLOLENS 2 IN HEALTHCARE</h1>
 
 As technology continues to expand the limits of modern imagination, human experiences are moving away from just what people see to what people feel. In a world where there is an ever-evolving effort to make our lives not just much easier but much more exhilarating, mixed reality is a break-through innovation.
 As Matt Mullenweg rightly said, "Technology is best when it brings people together."
@@ -7,10 +7,7 @@ As Matt Mullenweg rightly said, "Technology is best when it brings people togeth
 Mixed reality is a blend of physical and digital worlds, which has paved the way for interactions involving real or virtual humans, computers and their environments. In other words, it is a combination of the very world that we exist in and the virtual world. The physical and digital worlds mark the two polar ends of the mixed reality spectrum. This new reality is based on advancements in computer vision, graphical processing, display technologies, input systems, and cloud computing. 
 ## Where is Mixed Reality Used?
 Mixed Reality has been exceptional at bridging the divide between what is real and what is not. It is therefore employed in many sectors of the society including education, engineering, entertainment and healthcare. From interactive teaching and real-time simulation of engineering processes to immersive games and telemedicine, the applications of this technological paradigm are immense. 
-
-
-# MIXED REALITY WITH HOLOLENS 2 IN HEALTHCARE
-
-Though the applications of **HoloLens 2** are innumerable, our focus is _healthcare_. HoloLens will transform the nursing profession and improve healthcare. With the advent of telemedicine, the need for the patient and clinician to sit behind two screen with compartmentalized view of each other's world will be replaced by allowing clinicians to send themselves into patient's environment and interact more realistically. Nurses can teach patients about their upcoming surgery or provide detailed discharge instructions using hologram modeling of organs, medical devices, and procedures. HoloLens can also be used as a medium for patients to illustrate their lives and garner empathy from healthcare providers.
-
+## Hololens and Healthcare
+Though the applications of **HoloLens 2** are innumerable, our focus is _**healthcare**_. HoloLens will transform the nursing profession and improve healthcare. With the advent of telemedicine, the need for the patient and clinician to sit behind two screen with compartmentalized view of each other's world will be replaced by allowing clinicians to send themselves into patient's environment and interact more realistically. Nurses can teach patients about their upcoming surgery or provide detailed discharge instructions using hologram modeling of organs, medical devices, and procedures. HoloLens can also be used as a medium for patients to illustrate their lives and garner empathy from healthcare providers.
+## Business Use Cases
 These benefits aren't some future plans but are already in practice by various organizations. **Medivis** is one such organization where they have used HoloLens and have experienced reduced procedure times, complication rates and radiation exposure. **ApoQlar** is another such organization who were benefitted tremendously when explaining procedures to patients because they were able to illustrate everything with interactive 3D imagery.
