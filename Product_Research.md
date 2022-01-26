@@ -13,7 +13,7 @@ Mixed Reality has been exceptional at bridging the divide between what is real a
 ## What is Hololens 2?
 Hololens 2 is a headband device with eye glasses, and is a significant part of the Hololens family. It allows a user to work hands-free and provide undivide, hassle free attention to the work. Some of the features include error freehand tracking, built-in voice commands, eye tracking, spatial mapping, and large field of view.
 
-
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_polygon.png" width="420">
 
 ### Why use Hololens 2?
 1. Hololens 2 allows the ease of use, as it can be easily used monitor and interact with the user's environment.
