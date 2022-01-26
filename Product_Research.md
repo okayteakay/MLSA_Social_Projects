@@ -13,8 +13,8 @@ Mixed Reality has been exceptional at bridging the divide between what is real a
 ## What is Hololens?
 
 ### Why use Hololens 2?
-1.Hololens 2 allows the ease of use, as it can be easily used monitor and interact with the user's environment.\
-2.It is not just a technology, but an actual ecosystem. This ecosystem is supported with security, reliability, and scalability of Microsoft Cloud.\
+1. Hololens 2 allows the ease of use, as it can be easily used monitor and interact with the user's environment.\
+2. It is not just a technology, but an actual ecosystem. This ecosystem is supported with security, reliability, and scalability of Microsoft Cloud.\
 3. With some outstaanding features like built in voice command, eye tracking, hand tracking, etc, what is actually needed is the accuracy, and Hololens 2 definately stands on the top of the charts when it comes to accuracy.\
 
 ### Hololens and Healthcare
