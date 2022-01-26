@@ -13,9 +13,9 @@ Mixed Reality has been exceptional at bridging the divide between what is real a
 ## What is Hololens?
 
 ### Why use Hololens 2?
-1. Hololens 2 allows the ease of use, as it can be easily used monitor and interact with the user's environment.\
-2. It is not just a technology, but an actual ecosystem. This ecosystem is supported with security, reliability, and scalability of Microsoft Cloud.\
-3. With some outstaanding features like built in voice command, eye tracking, hand tracking, etc, what is actually needed is the accuracy, and Hololens 2 definately stands on the top of the charts when it comes to accuracy.\
+1. Hololens 2 allows the ease of use, as it can be easily used monitor and interact with the user's environment.
+2. It is not just a technology, but an actual ecosystem. This ecosystem is supported with security, reliability, and scalability of Microsoft Cloud.
+3. With some outstaanding features like built in voice command, eye tracking, hand tracking, etc, what is actually needed is the accuracy, and Hololens 2 definately stands on the top of the charts when it comes to accuracy.
 
 ### Hololens and Healthcare
 Though the applications of **HoloLens 2** are innumerable, our focus is _**healthcare**_. HoloLens will transform the nursing profession and improve healthcare. With the advent of telemedicine, the need for the patient and clinician to sit behind two screen with compartmentalized view of each other's world will be replaced by allowing clinicians to send themselves into patient's environment and interact more realistically. Nurses can teach patients about their upcoming surgery or provide detailed discharge instructions using hologram modeling of organs, medical devices, and procedures. HoloLens can also be used as a medium for patients to illustrate their lives and garner empathy from healthcare providers. 
