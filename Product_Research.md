@@ -10,7 +10,10 @@ Mixed reality is a blend of physical and digital worlds, which has paved the way
 ### Where is Mixed Reality Used?
 Mixed Reality has been exceptional at bridging the divide between what is real and what is not. It is therefore employed in many sectors of the society including education, engineering, entertainment and healthcare. From interactive teaching and real-time simulation of engineering processes to immersive games and telemedicine, the applications of this technological paradigm are immense. 
 
-## What is Hololens?
+## What is Hololens 2?
+Hololens 2 is a headband device with eye glasses, and is a significant part of the Hololens family. It allows a user to work hands-free and provide undivide, hassle free attention to the work. Some of the features include error freehand tracking, built-in voice commands, eye tracking, spatial mapping, and large field of view.
+
+
 
 ### Why use Hololens 2?
 1. Hololens 2 allows the ease of use, as it can be easily used monitor and interact with the user's environment.
