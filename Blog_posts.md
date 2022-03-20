@@ -5,7 +5,7 @@ Holograms are to Sci-Fi movies as sugar is to milk.
 
 From Terminator to Avengers, we cannot imagine our favourite superheroes without their mighty, futuristic holograms. In the [2012 short-film Sight](https://www.youtube.com/watch?v=lK_cdkpazjI), we see the protagonist Patrick living in an augmented space created by his highly nouvelle technology. [An IMDb review](https://www.imdb.com/review/rw3003534/?ref_=tt_urv) of this film writes, _“it was very well done indeed and I was thoroughly held by this future.”_ .
 
-![blog1 image1](https://user-images.githubusercontent.com/79788102/159161065-d3e90eb5-85d6-472b-a186-675791cb531a.png =250x250)
+<img src="https://user-images.githubusercontent.com/79788102/159161065-d3e90eb5-85d6-472b-a186-675791cb531a.png" width="400">
 
 What was captivatingly futuristic to an average person only a decade ago, a far-fetched ideology,  is now a reality,  driving innovation and smart-living to enrich human lives. Popularized by Pokemon GO and Snapchat filters, extended reality is now a part of every major sector of the society.
 
