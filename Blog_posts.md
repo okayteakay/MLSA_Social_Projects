@@ -36,6 +36,8 @@ In recent years, mixed reality has zoomed through the technological space with i
 
 “Mixed Reality is more than just a tool for gaming and cinema, but a way to improve human life in all its facets.”  It is no shocker that a device like HoloLens would find its place in schools, industries, hospitals and a variety of other professions. Powered by innovation and rapid growth in technology, mixed reality has the potential to become the powerhouse of education, health-care and industrial sectors. 
 
+![blog1 image4](https://user-images.githubusercontent.com/79788102/159161354-b763f2bb-ead2-4b5f-af19-e5a74aac5d1a.jpeg)
+
 The MR app [HoloHuman](https://www.microsoft.com/en-us/p/holohuman/9n5brls1hmw2#activetab=pivot:overviewtab) is a pioneer in the field of education. It is a complete human anatomy atlas that allows students to explore body systems, functions and regions through the use of full-size, interactive holograms. 
 (The use of this technology in health-care will be discussed in further blog posts.)
 MR solutions like Hevolus, Kognitiv Spark, PTC and Trimble are leading the way in other industries.
