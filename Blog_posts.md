@@ -5,7 +5,7 @@ Holograms are to Sci-Fi movies as sugar is to milk.
 
 From Terminator to Avengers, we cannot imagine our favourite superheroes without their mighty, futuristic holograms. In the [2012 short-film Sight](https://www.youtube.com/watch?v=lK_cdkpazjI), we see the protagonist Patrick living in an augmented space created by his highly nouvelle technology. [An IMDb review](https://www.imdb.com/review/rw3003534/?ref_=tt_urv) of this film writes, _“it was very well done indeed and I was thoroughly held by this future.”_ .
 
-<img src="https://user-images.githubusercontent.com/79788102/159161065-d3e90eb5-85d6-472b-a186-675791cb531a.png" width="400">
+<img src="https://user-images.githubusercontent.com/79788102/159161065-d3e90eb5-85d6-472b-a186-675791cb531a.png" width="600">
 
 What was captivatingly futuristic to an average person only a decade ago, a far-fetched ideology,  is now a reality,  driving innovation and smart-living to enrich human lives. Popularized by Pokemon GO and Snapchat filters, extended reality is now a part of every major sector of the society.
 
@@ -15,8 +15,7 @@ Extended Reality is the broad umbrella encompassing Virtual Reality, Augmented R
 
 While Virtual Reality primarily focuses on providing the users fully immersive digital experiences by moving them away from the real world, Mixed Reality takes a slightly different approach, focusing on bridging the gap between real and digital elements. Through Mixed Reality applications, users get to interact with both the virtual and the real worlds, manipulate digital objects using real-world ones, and vice versa. Sounds appealing, doesn’t it?
 
-![blog1 image2](https://user-images.githubusercontent.com/79788102/159161144-6f352d71-1275-41f4-b5be-b98b2c63cb7b.jpg)
-
+<img src="https://user-images.githubusercontent.com/79788102/159161144-6f352d71-1275-41f4-b5be-b98b2c63cb7b.jpg" width="700">
 
 Let us now look at the origins of this (Marvel)lous technology!
 
@@ -28,7 +27,7 @@ The reality-virtuality continuum is the scale between reality(the physical world
 Though MR has its origins rooted in the 1990s, it is safe to say that the term was only popularized by Microsoft, when they launched the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) in 2016. 
 The HoloLens are a pair of mixed reality smart glasses, the first head-mounted display, running on the Windows Mixed Reality platform. (We will know more about HoloLens in further blog posts.)
 
-![blog1 image3](https://user-images.githubusercontent.com/79788102/159161227-a1a56b24-17dc-479d-8946-58a7710d4a9e.png)
+<img src="https://user-images.githubusercontent.com/79788102/159161227-a1a56b24-17dc-479d-8946-58a7710d4a9e.png" width="700">
 
 In recent years, mixed reality has zoomed through the technological space with its wide range of applications and even bigger future possibilities. According to a [research by  Allied Market Research](https://www.alliedmarketresearch.com/mixed-reality-market), the mixed reality market is estimated to be around $5,362.1 Million by the year 2024. Some techies are even referring to MR as the next big thing in technology, following Artificial Intelligence.
 
@@ -36,7 +35,7 @@ In recent years, mixed reality has zoomed through the technological space with i
 
 “Mixed Reality is more than just a tool for gaming and cinema, but a way to improve human life in all its facets.”  It is no shocker that a device like HoloLens would find its place in schools, industries, hospitals and a variety of other professions. Powered by innovation and rapid growth in technology, mixed reality has the potential to become the powerhouse of education, health-care and industrial sectors. 
 
-![blog1 image4](https://user-images.githubusercontent.com/79788102/159161354-b763f2bb-ead2-4b5f-af19-e5a74aac5d1a.jpeg)
+<img src="https://user-images.githubusercontent.com/79788102/159161354-b763f2bb-ead2-4b5f-af19-e5a74aac5d1a.jpeg" width="600">
 
 The MR app [HoloHuman](https://www.microsoft.com/en-us/p/holohuman/9n5brls1hmw2#activetab=pivot:overviewtab) is a pioneer in the field of education. It is a complete human anatomy atlas that allows students to explore body systems, functions and regions through the use of full-size, interactive holograms. 
 (The use of this technology in health-care will be discussed in further blog posts.)
