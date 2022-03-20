@@ -20,11 +20,13 @@ The term “mixed reality” was first coined in “[A Taxonomy of mixed reality
 The reality-virtuality continuum is the scale between reality(the physical world) and virtuality(the virtual world). Mixed Reality was, according to Milgram, a technology that aimed at blending these two ends of the spectrum.
 Though MR has its origins rooted in the 1990s, it is safe to say that the term was only popularized by Microsoft, when they launched the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) in 2016. 
 The HoloLens are a pair of mixed reality smart glasses, the first head-mounted display, running on the Windows Mixed Reality platform. (We will know more about HoloLens in further blog posts.)
+
 In recent years, mixed reality has zoomed through the technological space with its wide range of applications and even bigger future possibilities. According to a [research by  Allied Market Research](https://www.alliedmarketresearch.com/mixed-reality-market), the mixed reality market is estimated to be around $5,362.1 Million by the year 2024. Some techies are even referring to MR as the next big thing in technology, following Artificial Intelligence.
 
 ## Realizing Mixed Reality’s Immense Potential
 
 “Mixed Reality is more than just a tool for gaming and cinema, but a way to improve human life in all its facets.”  It is no shocker that a device like HoloLens would find its place in schools, industries, hospitals and a variety of other professions. Powered by innovation and rapid growth in technology, mixed reality has the potential to become the powerhouse of education, health-care and industrial sectors. 
+
 The MR app [HoloHuman](https://www.microsoft.com/en-us/p/holohuman/9n5brls1hmw2#activetab=pivot:overviewtab) is a pioneer in the field of education. It is a complete human anatomy atlas that allows students to explore body systems, functions and regions through the use of full-size, interactive holograms. 
 (The use of this technology in health-care will be discussed in further blog posts.)
 MR solutions like Hevolus, Kognitiv Spark, PTC and Trimble are leading the way in other industries.
