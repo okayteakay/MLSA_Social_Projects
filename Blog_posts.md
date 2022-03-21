@@ -109,31 +109,31 @@ It is divided into 3 parts. In the upper left hand part we are talking about ins
 
 We will discuss in brief 7 possible areas of transformation in healthcare industry.
 
-	1. Nursing Education:
+1. **Nursing Education**
 	
 	The HoloLens will parlay nursing education in undreamed-of ways: from hologram modeling of organs and body systems to simulated hospital environments to virtually guided skills instruction. Good-bye live cadaver dissection, hello augmented world where every student has an opportunity to explore the dissection process. Certain skills such as nasogastric tube insertion, urinary catheterization, and PICC line placement could be practiced virtually while professors provide step by step guidance visible on the students’ lens.
 
-	2. Disaster Training
+2. **Disaster Training**
 	
 	The HoloLens can create simulated environments allowing nurses to safely but realistically train for disaster response. Just as NASA is using the HoloLens to explore the surface of Mars, so will nurses use the HoloLens to prepare for medical response to earthquakes, plane crashes, tsunamis, and terrorist attacks.
 	
-	3. Telemedicine
+3. **Telemedicine**
 	
 	No longer will patient and provider sit behind two screens with a compartmentalized view of each other’s world. The HoloLens could allow nurses to send themselves into the patient’s environment and interact more realistically.
 	
-	4. Emergency Response
+4. **Emergency Response**
 	
 	With the HoloLens, a call to 911 means the medical team can immediately see the emergency situation. When minutes and even seconds can matter, the HoloLens will allow clinicians to coach an uncertain bystander on first aid techniques such as cardiopulmonary resuscitation while waiting for medical professionals to arrive.
 	
-	5. Cultivating Understanding
+5. **Cultivating Understanding**
 	
 	Patients may use the HoloLens as a form of self-expression. The schizophrenic individual may render an environment that reflects his struggle with auditory and visual hallucinations. The psychiatric nurse could then use the HoloLens to step into his world and truly experience a life plagued with hurtful voices and terrifying images. The HoloLens serves as a medium for patients to illustrate their lives and garner empathy from healthcare providers.
 	
-	6. Patient Education 
+6. **Patient Education **
 	
 	Nurses can teach patients about their upcoming surgery or provide detailed discharge instructions using hologram modeling of organs, medical devices, and procedures.
 	
-	7. Personalized Prostheses
+7. **Personalized Prostheses**
 	
 	Prostheses could be precisely tailored to the individual using holographic rendering and 3D printing made possible by the HoloLens. Using Microsoft HoloLens, a personalized prosthetic might be designed to fit the actual shape of the patient’s anatomy.
 	
