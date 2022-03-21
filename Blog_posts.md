@@ -1,3 +1,8 @@
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 # 1. Mixed Reality
 
 
@@ -15,7 +20,7 @@ Extended Reality is the broad umbrella encompassing Virtual Reality, Augmented R
 
 While Virtual Reality primarily focuses on providing the users fully immersive digital experiences by moving them away from the real world, Mixed Reality takes a slightly different approach, focusing on bridging the gap between real and digital elements. Through Mixed Reality applications, users get to interact with both the virtual and the real worlds, manipulate digital objects using real-world ones, and vice versa. Sounds appealing, doesn’t it?
 
-<center><img src="https://user-images.githubusercontent.com/79788102/159161144-6f352d71-1275-41f4-b5be-b98b2c63cb7b.jpg" width="380"></center>
+<p class="aligncenter"><img src="https://user-images.githubusercontent.com/79788102/159161144-6f352d71-1275-41f4-b5be-b98b2c63cb7b.jpg" width="380"></p>
 
 Let us now look at the origins of this (Marvel)lous technology!
 
