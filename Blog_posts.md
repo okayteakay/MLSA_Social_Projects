@@ -150,7 +150,7 @@ The first is around holographic patient consultation. In the course of talking t
 
 Now the second context is consultation and doctors would  love to be able to bring consultants in on every visit which is impractical in real time. But with virtual care and some of the tools that we have now available they can do remote expert consultation and have them available at the time that they're seeing the patient and have those consultants be able to see the same type of things that the individual clinician standing right in front of the patient. The Microsoft HoloLens2 in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians from the National Health Services to be able to take care of COVID patients.
 
-<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/expert_consultation.png" width="380">
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/expert_consulatation.png" width="380">
 
 Finally, in terms of training simulations we will be able to understand the different anatomies to be able to provide procedures and enable junior clinicians to be able to practice in a safe setting but also teach them the proper way to do things and avoid certain aspects that could lead to danger. That’s something we now have available with these mixed reality applications. Again this scenario is a combination of the Microsoft HoloLens2 technologies with interactive Kahneman's hollow Anatomy application. This was done and tested at the Case Western  Reserve University.
 
