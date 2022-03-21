@@ -65,6 +65,7 @@ All in all, as long as we prioritize innovation to optimize mainstream and profe
 
 Mixed reality on HoloLens 2 is changing the game for the health industry – from planning and performing live surgeries, to seeing ultrasounds in 3D, to training doctors, surgeons and nurses to learn and understand human anatomy in new ways. 
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/amazed.gif" width="380">
 
 This is just the tip of the iceberg! By the end of this blog your jaw will drop realizing the power of mixed reality on HoloLens 2 in healthcare!
 
@@ -73,6 +74,8 @@ Let's start thinking about the paradigm of healthcare. In fact there are many th
 > "See one, do one, teach one"
 
 This was coined by Dr.William Halstead in the 1980s, and it specifically referred to the fact that clinicians in the course of training need to see several types of procedures. They need to see several types of patients with certain conditions. They need to perform the procedures on the patients to gain some expertise. They eventually get to the top of the pyramid when they are able to communicate and teach others how to do this. 
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/joke.gif" width="380">
 
 As you can imagine this is a very narrow pyramid. And unfortunately that has created problems when we think of access to care. With virtual reality, with mixed reality, with augmented reality, we have tools now available to create immersive experience that can transform the opportunity for providing education and training. The fact that we also have to recognize is that the devices that are available now allow us to be able to change the way that we see the environment, to be able to see three-dimensional images and be able to understand how these images can interrelate with each other. It allows us to be able to not only see it but change the way that we look at the world. This is a quotes from Satya Nadella - 
 
@@ -84,6 +87,7 @@ And that’s exactly what we are talking about here with mixed reality.
 
 When we think of mixed reality probably the very first thing we think of is the headset the HoloLens2.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/hololens.gif" width="380">
 
 That is a core part of it. But the analysis is actually being done in the back-end with a powerful platform on Azure called Microsoft Mesh and that allows us to be able to create the three-dimensional images, pull the data from different sources and be able to provide that level of interactivity in immersive nature. Additionally, Microsoft Mesh interfaces not just with the HoloLens but a variety of other types of technology tools such as PCs and mobile devices and other virtual reality headsets. So we can create an ecosystem of different types of devices that can be used by clinicians and patients as they are immersing themselves or working with individuals that are in the immersed environments.
 
@@ -93,6 +97,7 @@ Then on the top of that sits the applications. Dynamics 365 has allowed us to be
 
 There is also an opportunity to collaborate. Imagine you are in a virtual conference room having an image of the particular organ in three dimensions in front of you. Rather than all of the participants being there just throughout a video conference, their avatars are there. And avatars can interact with the actual organ, dissect it, show particular areas and also have people look at different angles.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/group.gif" width="380">
 
 Okay, I'm not telling you fairy tales! All this is possible now with Microsoft Mesh. More recently Microsoft has announced that Mesh can be launched directly out of Microsoft Teams which gives individuals and organizations an opportunity by leveraging collaboration tools such as Teams for telehealth and then launch into these environments. This is an incredible opportunity to provide intersection between the different Microsoft products and that's exactly what Microsoft is doing. We are taking a look at all the different technologies that we have available today everything from azure to teams to dynamics and all the platforms that we have built on top of it including Mesh and integrating them all. But at the centre of all of this is healthcare data. If we think about how healthcare data needs to flow from all the different systems, this diagram eases our job of understanding.
 
