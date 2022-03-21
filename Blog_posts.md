@@ -58,3 +58,46 @@ After all, this technology is relatively new and is prone to many apprehensions.
 All in all, as long as we prioritize innovation to optimize mainstream and professional environments, and as long as Spiderman’s holograms put you at awe, the field of Mixed Reality will thrive and keep thriving.
 
 
+
+# 7. Case Study - apoQlar
+
+
+<img src="https://user-images.githubusercontent.com/79788102/159345132-fb54b3e2-8c03-4f49-866d-6e580bc894a9.png" height="200">
+
+
+The mid-2010s saw rapid technological advances in both virtual reality and augmented reality. The possibilities of incorporating these technologies into our daily lives seemed endless and a paradigm shift in the design of human-computer interactions was just around the corner.
+
+At the same time, scientists, computer technologists and healthcare professionals began to see, study and understand the potential impact a technology like mixed reality could have in delivering proper, efficient and more accessible healthcare. 
+
+But, there were limitations to this. Mixed reality systems were complex and inaccessible. They required specialized prototypes for professional use.
+This changed when commercial products like Microsoft HoloLens were released into the market. 
+This was when apoQlar, a Germany-based company, managed to align itself in the field of holomedicine.
+
+
+
+## About apoQlar
+
+apoQlar was founded in 2017 by Lukasz Radomski and Sirko Pelzl at Hamburg, Germany. The company was established with the motive of “revolutionizing how medicine is practiced, experienced, learned and shared globally.” And rightfully so, apoQlar had opened a new chapter for Holomedicine. 
+
+[VSI HoloMedicine by apoQlar](https://apoqlar.com/) is a software platform that leverages the Microsoft HoloLens 2 hardware to transform medical images, clinical workflows and medical education into a 3D mixed reality environment the world has never seen before. With VSI(Virtual Surgery Intelligence) HoloMedicine, MRI, CT and other medical scans are displayed in 3D through Microsoft HoloLens, facilitating a closer observation and analysis of patient data.
+In 2020, apoQlar was a finalist in the Microsoft Partner of the Year Awards, for going above and beyond to enhance technical capabilities in the healthcare field.
+
+## A Paradigm Shift
+
+VSI HoloMedicine has brought tremendous improvements in clinical care, medical education and general overview of the patients. Dr. Robert Hannan, MD - Cardiovascular Surgeon, noted that VSI was “going to revolutionize not only healthcare, but also how we work together over distance, how we work together over time.” 
+
+<img src="https://user-images.githubusercontent.com/79788102/159345272-759f8cdc-905d-4de1-9e3e-e768e27cdddc.png" width="380">
+
+With the advancements led by apoQlar, it has now become incredibly easy for surgeons to collaborate on complex medical procedures from afar, through the mixed reality space. Patient data is easily examined through interactive holograms to help surgeons make accurate decisions.
+
+## Challenges
+
+Although VSI has already solidified its importance, apoQlar recognized that the safe and compliant handling of patient data with consideration to the General Data Protection Regulation (GDPR) was a hurdle that had to be overcome: Videos and images that could be informative for the rest of the medical community or for other patients could not be passed on easily and quickly, because all patient data has to be manually and elaborately anonymized by the doctor before being passed on.
+
+With the help of the software [BlueGDPR](https://theblue.ai/blue-gdpr-optimizes-apoqlar-solution-vsi/), VSI HoloMedicine has incorporated the ability to automatically anonymize patient information. Large amounts of data are now automatically and professionally anonymized within the VSI immediately without being edited manually by the user of VSI.
+
+## Where is apoQlar Heading?
+
+In February 2022, apoQlar officially released the 1.8.0 version of VSI HoloMedicine. With this latest release, apoQlar became the first company to implement cloud-based rendering technologies for medical mixed reality across multiple continents.
+
+As the need for accurate and accessible medical technology continues to grow, mixed reality solutions like apoQlar have and will become crucial for advancement in the field of healthcare.
