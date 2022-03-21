@@ -59,6 +59,8 @@ All in all, as long as we prioritize innovation to optimize mainstream and profe
 
 
 
+
+
 # 7. Case Study - apoQlar
 
 
