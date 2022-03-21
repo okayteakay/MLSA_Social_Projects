@@ -129,7 +129,7 @@ We will discuss in brief 7 possible areas of transformation in healthcare indust
 	
 	Patients may use the HoloLens as a form of self-expression. The schizophrenic individual may render an environment that reflects his struggle with auditory and visual hallucinations. The psychiatric nurse could then use the HoloLens to step into his world and truly experience a life plagued with hurtful voices and terrifying images. The HoloLens serves as a medium for patients to illustrate their lives and garner empathy from healthcare providers.
 	
-6. **Patient Education **
+6. **Patient Education**
 	
 	Nurses can teach patients about their upcoming surgery or provide detailed discharge instructions using hologram modeling of organs, medical devices, and procedures.
 	
