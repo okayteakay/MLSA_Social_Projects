@@ -163,7 +163,7 @@ This is an opportunity to re-re-imagine what healthcare can be.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/reimagined.png" width="380">
 
-We're getting better insights by connecting surgeons and clinicians with the medical data that matters most, better experiences. Now students can perfect their skills by practicing on virtual tools that are in three dimensions. Then providing better care by allowing us to provide preoperative planning, post-operative analysis and better information that's provided to the patients as part of this overall experience. Throughout this, we are learning that mixed reality has an incredible potential to transform the way that we take care of patients and train clinicians across the world. Happy news!!! We have a bright 
+We're getting better insights by connecting surgeons and clinicians with the medical data that matters most, better experiences. Now students can perfect their skills by practicing on virtual tools that are in three dimensions. Then providing better care by allowing us to provide preoperative planning, post-operative analysis and better information that's provided to the patients as part of this overall experience. Throughout this, we are learning that mixed reality has an incredible potential to transform the way that we take care of patients and train clinicians across the world. Happy news!!! We have a bright future!!!
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/future.gif" height="380">
 
