@@ -115,7 +115,7 @@ Are you wondering the imapacts of a headgear like device so close to your eyes f
 # 5. HoloLens 2 and Healthcare
 
 
-Mixed reality on HoloLens 2 is changing the game for the health industry – from planning and performing live surgeries, to seeing ultrasounds in 3D, to training doctors, surgeons and nurses to learn and understand human anatomy in new ways. 
+[Mixed reality on HoloLens 2 is changing the game for the health industry](https://www.microsoft.com/en-IN/hololens/industry-healthcare#) – from planning and performing live surgeries, to seeing ultrasounds in 3D, to training doctors, surgeons and nurses to learn and understand human anatomy in new ways. 
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/amazed.gif" width="380">
 
@@ -137,15 +137,15 @@ And that’s exactly what we are talking about here with mixed reality.
 
 ## What constitutes this technology?
 
-When we think of mixed reality probably the very first thing we think of is the headset - the HoloLens2.
+When we think of mixed reality probably the very first thing we think of is the headset - the [HoloLens2](https://www.microsoft.com/en-in/hololens).
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/hololens.gif" width="380">
 
-That is the core part of it. But the analysis is being done in the back-end with a powerful platform on Azure called Microsoft Mesh. It allows us to be able to create three-dimensional images, pull data from different sources and be able to provide that level of interactivity in immersive nature. Additionally, Microsoft Mesh interfaces not just with the HoloLens but with a variety of other types of technology tools such as PCs and mobile devices and other virtual reality headsets. So, we can create an ecosystem of different types of devices that can be used by clinicians and patients as they are immersing themselves or working with individuals that are in the immersed environments.
+That is the core part of it. But the analysis is being done in the back-end with a powerful platform on [Azure](https://azure.microsoft.com/en-in/) called [Microsoft Mesh](https://www.microsoft.com/en-in/p/microsoft-mesh-app-preview/9p64lj74ngw0#activetab=pivot:overviewtab). It allows us to be able to create three-dimensional images, pull data from different sources and be able to provide that level of interactivity in immersive nature. Additionally, Microsoft Mesh interfaces not just with the HoloLens but with a variety of other types of technology tools such as PCs and mobile devices and other virtual reality headsets. So, we can create an ecosystem of different types of devices that can be used by clinicians and patients as they are immersing themselves or working with individuals that are in the immersed environments.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/mr.png" width="380">
 
-Then on the top of that sits the applications. Dynamics 365 has allowed us to be able to create immersive experiences that connect us to different individuals. We now have the Microsoft Mesh app, Altspace VR apps and of course partners are building on these platforms and creating incredibly immersive and important types of clinical applications using Microsoft technologies. Microsoft Mesh plays an important role here. It is on Azure so there's a significant amount of AI that's been applicable. 
+Then on the top of that sits the applications. [Dynamics 365](https://dynamics.microsoft.com/en-in/) has allowed us to be able to create immersive experiences that connect us to different individuals. We now have the Microsoft Mesh app, [Altspace VR apps](https://www.microsoft.com/en-in/p/altspacevr/9nvr7mn2fchq#activetab=pivot:overviewtab) and of course partners are building on these platforms and creating incredibly immersive and important types of clinical applications using Microsoft technologies. Microsoft Mesh plays an important role here. It is on Azure so there's a significant amount of AI that's been applicable. 
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/ai.png" width="380">
 
@@ -153,7 +153,7 @@ There is also an opportunity to collaborate. Imagine you are in a virtual confer
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/group.gif" width="380">
 
-Okay, I'm not telling you fairy tales! All this is possible now with Microsoft Mesh. More recently Microsoft has announced that Mesh can be launched directly out of Microsoft Teams which gives individuals and organizations an opportunity by leveraging collaboration tools such as Teams for telehealth and then launch into these environments. This is an incredible opportunity to provide intersection between the different Microsoft products and that's exactly what Microsoft is doing. We are taking a look at all the different technologies that we have available today. Everything from Azure to Teams to Dynamics and all the platforms that we have built on top of it including Mesh and integrating them all. But at the centre of all of this is healthcare data. If we think about how healthcare data needs to flow from all the different systems, this diagram eases our job of understanding.
+Okay, I'm not telling you fairy tales! All this is possible now with [Microsoft Mesh](https://www.microsoft.com/en-us/mesh). More recently [Microsoft has announced that Mesh can be launched directly out of Microsoft Teams](https://news.microsoft.com/innovation-stories/mesh-for-microsoft-teams/) which gives individuals and organizations an opportunity by leveraging collaboration tools such as Teams for telehealth and then launch into these environments. This is an incredible opportunity to provide intersection between the different Microsoft products and that's exactly what Microsoft is doing. We are taking a look at all the different technologies that we have available today. Everything from Azure to Teams to Dynamics and all the platforms that we have built on top of it including Mesh and integrating them all. But at the centre of all of this is healthcare data. If we think about how healthcare data needs to flow from all the different systems, this diagram eases our job of understanding.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/cloud.png" width="380">
 
@@ -229,7 +229,7 @@ says Chris Morely, Radiologist, Medivis.
 
 ## What's Medivis?
 
-Medivis is a New York City-based medical technology company founded by surgeons, radiologists, and engineers to advance medical imaging and surgical navigation by harnessing augmented reality and artificial intelligence. Medivis was founded by neurosurgeon Osamah Choudhry, MD and radiologist Christopher Morley, MD. 
+[Medivis](https://www.medivis.com/) is a New York City-based medical technology company founded by surgeons, radiologists, and engineers to advance medical imaging and surgical navigation by harnessing augmented reality and artificial intelligence. Medivis was founded by neurosurgeon Osamah Choudhry, MD and radiologist Christopher Morley, MD. 
 
 Medivis has teamed up with Microsoft in empowering surgeons and clinicians to improve surgical visualization and deliver better patient outcomes. Medivis brings together doctors and engineers of all backgrounds from around the world. Given the nature of our work, each member of the team finds themselves in constant communication and collaboration with each division of the company. Engineers with designers, modelers with surgeons, user-experience architects with graphics engineers, and so on. Some of their in-house expertise includes neuroanatomy, radiology, mixed-reality technology, graphics engineering, user-experience design, database architecture, web applications development, and 3D modeling.
 
