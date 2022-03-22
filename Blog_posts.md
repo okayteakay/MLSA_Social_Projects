@@ -219,6 +219,50 @@ We're getting better insights by connecting surgeons and clinicians with the med
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/future.gif" height="380">
 
+# 6. Case Study - Medivis
+
+If you are still pondering if all this is true, let me help you to believe by expounding on an organization who exploited this technology and discovered the best of it.
+
+> "Holographically overlaying patient data at the point of care can reduce procedure times, complication rates and radiation exposure." 
+
+says Chris Morely, Radiologist, Medivis.
+
+## What's Medivis?
+
+Medivis is a New York City-based medical technology company founded by surgeons, radiologists, and engineers to advance medical imaging and surgical navigation by harnessing augmented reality and artificial intelligence. Medivis was founded by neurosurgeon Osamah Choudhry, MD and radiologist Christopher Morley, MD. 
+
+Medivis has teamed up with Microsoft in empowering surgeons and clinicians to improve surgical visualization and deliver better patient outcomes. Medivis brings together doctors and engineers of all backgrounds from around the world. Given the nature of our work, each member of the team finds themselves in constant communication and collaboration with each division of the company. Engineers with designers, modelers with surgeons, user-experience architects with graphics engineers, and so on. Some of their in-house expertise includes neuroanatomy, radiology, mixed-reality technology, graphics engineering, user-experience design, database architecture, web applications development, and 3D modeling.
+
+## What have they built?
+
+Medivis have built 2 major projects with the help of HoloLens 2. They are **Surgical AR** and **AnatomyX**.
+
+## Surgical AR 
+
+Surgical AR leverages augmented reality to improve patient outcomes. [SurgicalAR, has received 510(k) clearance for clinical use in the operating room by the U.S. Food and Drug Administration.](https://www.prnewswire.com/news-releases/medivis-wins-fda-clearance-for-breakthrough-augmented-reality-surgical-system-300859064.html?tc=eml_cleartime) The enterprise SurgicalAR platform integrates the latest advancements in augmented reality, artificial intelligence, and computer vision to advance surgical visualization, thereby decreasing surgical complications and improving patient outcomes — all while lowering costs to the healthcare system.
+
+> "Holographic visualization is the final frontier of surgical imaging and navigation" 
+
+said Dr. Osamah Choudhry, neurosurgeon & CEO of Medivis. 
+
+This announcement came on the heels of significant company momentum, including strategic partnerships with Verizon and Microsoft. Earlier in 2019, the company [came out of stealth with $2.3M in funding](https://www.prnewswire.com/news-releases/medivis-launches-with-2-3m-in-funding-to-transform-surgical-visualization-300793816.html), led by Initialized Capital. 
+
+## AnatomyX
+
+AnatomyX engages students with immersive health education to improve learning outcomes. It contains over 5,000 painstakingly detailed anatomy models, designed to meet rigorous industry standards. By designing each piece in house, in 3D, and with a rigorous QA process, they are able to ensure that the [app](https://www.microsoft.com/en-us/p/anatomyx/9pl37lxq11n8?activetab=pivot:overviewtab) delivers high quality models to all of their clients. The ability to conduct a shared AR learning experience is invaluable for students and faculty alike. AnatomyX makes it easy to create an immersive 3D space for multiple users to interact with one shared model in real time. Every model in their database is backed up and consistently reviewed to provide up-to-date facts and figures about anatomy functions, etymology, and more. AnatomyX portal, provided with no additional costs to all of AnatomyX customers, is an endlessly useful tool for customizing your individual learning experience. Users are able to create classrooms, appoint instructors, build quizzes, and review students’ progress all within one central location. Smart analytical insights provides this information at a glance, without users having to waste time crunching numbers on their own.
+
+## What's next?
+
+The U.S. Department of Veterans Affairs (VA) partnered with Verizon, **Medivis** and Microsoft, effective Feb. 12,2020 as part of its efforts to deliver Veterans VA’s [first advanced, 5G-enabled, clinical care system at the VA Palo Alto Health Care System.](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5395)
+
+> “Last year, President Trump challenged America to be among the first to provide 5G wireless services, and VA met that challenge. Our hospital in Palo Alto, California is currently one of only a handful of 5G enabled health facilities in the world. We’re excited to use this hands-on opportunity to work with our partners to develop foundational practices and deploy advanced medical solutions to serve our nation’s Veterans.”
+
+said VA Secretary Robert Wilkie.
+
+> "Medical imaging for invasive surgical procedures has been waiting for a transformation like this for decades —and we knew from day one that Medivis would be the leader in this emerging space," 
+
+says Eric Woersching, General Partner, Initialized Capital. Their customer feedbacks tell us that they have made a significant leap in bring a tranformation to healthcare industry.
+
 
 # 7. Case Study - apoQlar
 
