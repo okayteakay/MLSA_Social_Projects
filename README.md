@@ -6,7 +6,7 @@ Clueless what mixed reality is?🤔 Fret not!🤪 We got it covered!!✨ Startin
 
 # Meet our squad
 
-- @okayteakay (Team Lead)
-- @madhumithat88
-- @preksha1003
-- @sheki018
+- [@okayteakay](https://github.com/okayteakay) (Team Lead)
+- [@madhumithat88](https://github.com/madhumithat88)
+- [@preksha1003](https://github.com/preksha1003)
+- [@sheki018](https://github.com/sheki018)
