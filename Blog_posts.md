@@ -73,7 +73,7 @@ in voice command, eye tracking, hand tracking, etc, what is actually needed is t
 
 Now heading over to the most interesting part
 
-Features and Specifications 
+# 4. Features and Specifications of Hololens 2
 1. Hand tracking -  This is a new generation Hololens 2 technology, allowing direct manipulation i.e. it allows the user to directly interact with the holograms. A user would be 
 able to grab, touch, hold the virtual holographic images. The void of feeling the object is almost filled by its other features, giving a more real feel of the environment.  
 To achieve this idea into reality, colliders are used on each index finger. 
@@ -103,6 +103,8 @@ Inertial measurement unit (IMU) consisting	Accelerometer, gyroscope, magnetomete
 (ii)Holographic resolutionof about 2k 3:2 light engines (iii) Holographic density>2.5k radiants (light points per radian)(iv) Eye-based rendering	Display optimization for 3D 
 eye position
 13. Pre- Installed Softwares- There are many already installed softwares to make the experience refined. Some of these softwares are very familiar like microsoft edge, mail and calender, file explorer, one drive etc.. Some of the softwares are installed for high service and better experience like Windows holographic operating system (user is able to view apps and games in mixed reality), 3d models (for three dimensional models and animation in real time), etc.
+
+#
 
 Are you wondering the imapacts of a headgear like device so close to your eyes for long hours?? It is very common, especially after the pandemic the today's generation for peace time off the devices due to the technology strain over physical and mental health. Rest assured dear reader! As this device is unassailable. It has been protected and tested over and over for all the possible damage one wcould come up with. Moreover, it has been tested for psychological strain as well. For eye protection the device is 
 
