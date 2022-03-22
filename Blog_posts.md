@@ -241,6 +241,8 @@ Medivis have built 2 major projects with the help of HoloLens 2. They are **Surg
 
 Surgical AR leverages augmented reality to improve patient outcomes. [SurgicalAR, has received 510(k) clearance for clinical use in the operating room by the U.S. Food and Drug Administration.](https://www.prnewswire.com/news-releases/medivis-wins-fda-clearance-for-breakthrough-augmented-reality-surgical-system-300859064.html?tc=eml_cleartime) The enterprise SurgicalAR platform integrates the latest advancements in augmented reality, artificial intelligence, and computer vision to advance surgical visualization, thereby decreasing surgical complications and improving patient outcomes — all while lowering costs to the healthcare system.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/SugicalAR.gif" width="380">
+
 > "Holographic visualization is the final frontier of surgical imaging and navigation" 
 
 said Dr. Osamah Choudhry, neurosurgeon & CEO of Medivis. 
@@ -249,7 +251,13 @@ This announcement came on the heels of significant company momentum, including s
 
 ## AnatomyX
 
-AnatomyX engages students with immersive health education to improve learning outcomes. It contains over 5,000 painstakingly detailed anatomy models, designed to meet rigorous industry standards. By designing each piece in house, in 3D, and with a rigorous QA process, they are able to ensure that the [app](https://www.microsoft.com/en-us/p/anatomyx/9pl37lxq11n8?activetab=pivot:overviewtab) delivers high quality models to all of their clients. The ability to conduct a shared AR learning experience is invaluable for students and faculty alike. AnatomyX makes it easy to create an immersive 3D space for multiple users to interact with one shared model in real time. Every model in their database is backed up and consistently reviewed to provide up-to-date facts and figures about anatomy functions, etymology, and more. AnatomyX portal, provided with no additional costs to all of AnatomyX customers, is an endlessly useful tool for customizing your individual learning experience. Users are able to create classrooms, appoint instructors, build quizzes, and review students’ progress all within one central location. Smart analytical insights provides this information at a glance, without users having to waste time crunching numbers on their own.
+AnatomyX engages students with immersive health education to improve learning outcomes. It contains over 5,000 painstakingly detailed anatomy models, designed to meet rigorous industry standards. By designing each piece in house, in 3D, and with a rigorous QA process, they are able to ensure that the [app](https://www.microsoft.com/en-us/p/anatomyx/9pl37lxq11n8?activetab=pivot:overviewtab) delivers high quality models to all of their clients. 
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/skull.gif" width="380">
+
+The ability to conduct a shared AR learning experience is invaluable for students and faculty alike. AnatomyX makes it easy to create an immersive 3D space for multiple users to interact with one shared model in real time. Every model in their database is backed up and consistently reviewed to provide up-to-date facts and figures about anatomy functions, etymology, and more. AnatomyX portal, provided with no additional costs to all of AnatomyX customers, is an endlessly useful tool for customizing your individual learning experience. Users are able to create classrooms, appoint instructors, build quizzes, and review students’ progress all within one central location. Smart analytical insights provides this information at a glance, without users having to waste time crunching numbers on their own.
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/analytics.gif" width="380">
 
 ## What's next?
 
