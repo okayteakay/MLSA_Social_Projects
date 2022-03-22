@@ -77,7 +77,7 @@ This was coined by Dr.William Halstead in the 1980s, and it specifically referre
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/joke.gif" width="380">
 
-As you can imagine this is a very narrow pyramid. And unfortunately that has created problems when we think of access to care. With virtual reality, with mixed reality, with augmented reality, we have tools now available to create immersive experience that can transform the opportunity for providing education and training. The fact that we also have to recognize is that the devices that are available now allow us to be able to change the way that we see the environment, to be able to see three-dimensional images and be able to understand how these images can interrelate with each other. It allows us to be able to not only see it but change the way that we look at the world. This is a quotes from Satya Nadella - 
+As you can imagine this is a very narrow pyramid. And unfortunately that has created problems when we think of access to care. With virtual reality, with mixed reality, with augmented reality, we have tools now to create immersive experience that can transform the opportunity for providing education and training. The fact that we have to recognize is that the devices that are available now allow us to be able to change the way that we see the environment, to be able to see three-dimensional images and be able to understand how these images can interrelate with each other. It allows us not only see it but change the way that we look at the world. This is a quote from Satya Nadella - 
 
 > "When you change the way you see the world, you change the world you see."
 
@@ -85,11 +85,11 @@ And that’s exactly what we are talking about here with mixed reality.
 
 ## What constitutes this technology?
 
-When we think of mixed reality probably the very first thing we think of is the headset the HoloLens2.
+When we think of mixed reality probably the very first thing we think of is the headset - the HoloLens2.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/hololens.gif" width="380">
 
-That is a core part of it. But the analysis is actually being done in the back-end with a powerful platform on Azure called Microsoft Mesh and that allows us to be able to create the three-dimensional images, pull the data from different sources and be able to provide that level of interactivity in immersive nature. Additionally, Microsoft Mesh interfaces not just with the HoloLens but a variety of other types of technology tools such as PCs and mobile devices and other virtual reality headsets. So we can create an ecosystem of different types of devices that can be used by clinicians and patients as they are immersing themselves or working with individuals that are in the immersed environments.
+That is the core part of it. But the analysis is being done in the back-end with a powerful platform on Azure called Microsoft Mesh. It allows us to be able to create three-dimensional images, pull data from different sources and be able to provide that level of interactivity in immersive nature. Additionally, Microsoft Mesh interfaces not just with the HoloLens but with a variety of other types of technology tools such as PCs and mobile devices and other virtual reality headsets. So, we can create an ecosystem of different types of devices that can be used by clinicians and patients as they are immersing themselves or working with individuals that are in the immersed environments.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/mr.png" width="380">
 
@@ -97,11 +97,11 @@ Then on the top of that sits the applications. Dynamics 365 has allowed us to be
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/ai.png" width="380">
 
-There is also an opportunity to collaborate. Imagine you are in a virtual conference room having an image of the particular organ in three dimensions in front of you. Rather than all of the participants being there just throughout a video conference, their avatars are there. And avatars can interact with the actual organ, dissect it, show particular areas and also have people look at different angles.
+There is also an opportunity to collaborate. Imagine you are in a virtual conference room having an image of the particular organ in three dimensions in front of you. Rather than all of the participants being there just throughout a video conference, their avatars are there. And avatars can interact with the actual organ, dissect it and show particular areas.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/group.gif" width="380">
 
-Okay, I'm not telling you fairy tales! All this is possible now with Microsoft Mesh. More recently Microsoft has announced that Mesh can be launched directly out of Microsoft Teams which gives individuals and organizations an opportunity by leveraging collaboration tools such as Teams for telehealth and then launch into these environments. This is an incredible opportunity to provide intersection between the different Microsoft products and that's exactly what Microsoft is doing. We are taking a look at all the different technologies that we have available today everything from azure to teams to dynamics and all the platforms that we have built on top of it including Mesh and integrating them all. But at the centre of all of this is healthcare data. If we think about how healthcare data needs to flow from all the different systems, this diagram eases our job of understanding.
+Okay, I'm not telling you fairy tales! All this is possible now with Microsoft Mesh. More recently Microsoft has announced that Mesh can be launched directly out of Microsoft Teams which gives individuals and organizations an opportunity by leveraging collaboration tools such as Teams for telehealth and then launch into these environments. This is an incredible opportunity to provide intersection between the different Microsoft products and that's exactly what Microsoft is doing. We are taking a look at all the different technologies that we have available today. Everything from Azure to Teams to Dynamics and all the platforms that we have built on top of it including Mesh and integrating them all. But at the centre of all of this is healthcare data. If we think about how healthcare data needs to flow from all the different systems, this diagram eases our job of understanding.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/cloud.png" width="380">
 
@@ -144,15 +144,15 @@ As the possible applications go endless, let's focus on clinical use cases. This
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/usecase.png" width="380">
 
-The first is around holographic patient consultation. In the course of talking to the patient about a procedure or a particular type of intervention doctors oftentimes need to communicate information that go beyond words. A picture would be great. But a three-dimensional picture that one can look at is exactly what patients need. One example is Microsoft HoloLens combined with apoQlar's (covered later in this blog series) virtual surgery intelligence or VSI.
+The first is around **holographic patient consultation**. In the course of talking to the patient about a procedure or a particular type of intervention doctors oftentimes need to communicate information that go beyond words. A picture would be great. But a three-dimensional picture that one can look at is exactly what patients need. One example is Microsoft HoloLens combined with apoQlar's (covered later in this blog series) virtual surgery intelligence or VSI.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/holographic_consultation.png" width="380">
 
-Now the second context is consultation and doctors would  love to be able to bring consultants in on every visit which is impractical in real time. But with virtual care and some of the tools that we have now available they can do remote expert consultation and have them available at the time that they're seeing the patient and have those consultants be able to see the same type of things that the individual clinician standing right in front of the patient. The Microsoft HoloLens2 in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians from the National Health Services to be able to take care of COVID patients.
+Now, the second context is consultation. Doctors love to bring consultants in on every visit which is impractical in real time. But with virtual care and some of the tools that we have now availabl,e they can do **remote expert consultation** and have them available at the time that they're seeing the patient and have those consultants be able to see the same type of things that the individual clinician standing right in front of the patient. The Microsoft HoloLens2 in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians from the National Health Services to be able to take care of COVID patients.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/expert_consulatation.png" width="380">
 
-Finally, in terms of training simulations we will be able to understand the different anatomies to be able to provide procedures and enable junior clinicians to be able to practice in a safe setting but also teach them the proper way to do things and avoid certain aspects that could lead to danger. That’s something we now have available with these mixed reality applications. Again this scenario is a combination of the Microsoft HoloLens2 technologies with interactive Kahneman's hollow Anatomy application. This was done and tested at the Case Western  Reserve University.
+Finally, in terms of **training simulations** we will be able to understand the different anatomies, to be able to provide procedures and enable junior clinicians to be able to practice in a safe setting but also teach them the proper way to do things and avoid certain aspects that could lead to danger. That’s something we now have available with these mixed reality applications. Again this scenario is a combination of the Microsoft HoloLens2 technologies with interactive Kahneman's Hollow Anatomy application. This was done and tested at the Case Western Reserve University.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/teaching.png" width="380">
 
@@ -163,8 +163,9 @@ This is an opportunity to re-re-imagine what healthcare can be.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/reimagined.png" width="380">
 
-We're getting better insights by connecting surgeons and clinicians with the medical data that matters most, better experiences. Now students can perfect their skills by practicing on virtual tools that are in three dimensions. Then providing better care by allowing us to provide preoperative planning, post-operative analysis and better information that's provided to the patients as part of this overall experience. Throughout this, we are learning that mixed reality has an incredible potential to transform the way that we take care of patients and train clinicians across the world. 
+We're getting better insights by connecting surgeons and clinicians with the medical data that matters most, better experiences. Now students can perfect their skills by practicing on virtual tools that are in three dimensions. Then providing better care by allowing us to provide preoperative planning, post-operative analysis and better information that's provided to the patients as part of this overall experience. Throughout this, we are learning that mixed reality has an incredible potential to transform the way that we take care of patients and train clinicians across the world. Happy news!!! We have a bright 
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/future.gif" height="380">
 
 
 # 7. Case Study - apoQlar
