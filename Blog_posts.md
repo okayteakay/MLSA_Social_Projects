@@ -71,6 +71,10 @@ It allows a user to work hands-free and provide undivide, hassle free attention 
 a technology, but an actual ecosystem. This ecosystem is supported with security, reliability, and scalability of Microsoft Cloud.With some outstaanding features like built
 in voice command, eye tracking, hand tracking, etc, what is actually needed is the accuracy, and Hololens 2 definately stands on the top of the charts when it comes to accuracy.
 
+# Industrial Edition of Hololens 2
+Ever had a FOMO (fear of missing out)?? Well this technology right here gives a big FOMO. Every second you read something new about it and here it another great adaption. Well hololens the Industrial version is the enhanced and redesigned version enabling the user to freely use in the industrial environment, be a squaky clean or hazardous environment ; This version got you.
+If there is a worker who has to work in loud, dirty and perilious situations, there is TRIMBLE XR10 with hololens 2. This extra dded feature allows to view the holograms in bright light, as reader with dark themed whatsapp and instagram you might feel its little off but for the workers in such environment it works reall well. It also improves contrast, visibility, and readability of holograms.
+
 Now heading over to the most interesting part
 
 # 4. Features and Specifications of Hololens 2
@@ -104,9 +108,9 @@ Inertial measurement unit (IMU) consisting	Accelerometer, gyroscope, magnetomete
 eye position
 13. Pre- Installed Softwares- There are many already installed softwares to make the experience refined. Some of these softwares are very familiar like microsoft edge, mail and calender, file explorer, one drive etc.. Some of the softwares are installed for high service and better experience like Windows holographic operating system (user is able to view apps and games in mixed reality), 3d models (for three dimensional models and animation in real time), etc.
 
-#
+# Risk analysis
 
-Are you wondering the imapacts of a headgear like device so close to your eyes for long hours?? It is very common, especially after the pandemic the today's generation for peace time off the devices due to the technology strain over physical and mental health. Rest assured dear reader! As this device is unassailable. It has been protected and tested over and over for all the possible damage one wcould come up with. Moreover, it has been tested for psychological strain as well. For eye protection the device is 
+Are you wondering the imapacts of a headgear like device so close to your eyes for long hours?? It is very common, especially after the pandemic the today's generation for peace time off the devices due to the technology strain over physical and mental health. Rest assured dear reader! As this device is unassailable. It has been protected and tested over and over for all the possible damage one wcould come up with. Moreover, it has been tested for psychological strain as well. For eye protection the device is certified with ANSI Z87.1, CSA Z94.3 and EN 166.Thid certifcation right here proves the eye and face protection from all the rays and screen lights. ANSI stands for American National Standards Institute which  aims to make an easy and safe process by focusing on eye safety.
 
 
 
