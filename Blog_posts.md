@@ -217,7 +217,7 @@ Finally, in terms of **training simulations** we will be able to understand the 
 
 ## So much to take in!!!In a gist...
 
-This is an opportunity to re-re-imagine what healthcare can be.
+This is an opportunity to re-imagine what healthcare can be.
 
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/reimagined.png" width="380">
 
