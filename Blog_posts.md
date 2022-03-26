@@ -73,7 +73,7 @@ Some of the greatest curricula were delivered to train nurses using mixed realit
 
 ### 3. Revolutionize the learning process
 
-[SphereGen](https://www.spheregen.com/) is utilizing mixed reality to create innovative solutions designed to increase efficiency and revolutionize the learning process. SphereGen collaborated with St. George’s University to develop the [Learning Heart](https://www.microsoft.com/en-us/p/learning-heart/9pghzvfwxpmb#activetab=pivot:overviewtab). The Learning Heart is a HoloLens application that assists students in understanding the elements of the Heart. As a study aid and teaching tool, this application can be used individually or collaboratively by multiple HoloLens users. The holograms are fully three-dimensional and can be traversed around and viewed from any position and angle.
+[SphereGen](https://www.spheregen.com/) is utilizing mixed reality to create innovative solutions designed to increase efficiency and revolutionize the learning process. SphereGen collaborated with St. George’s University to develop the [Learning Heart](https://www.microsoft.com/en-us/p/learning-heart/9pghzvfwxpmb#activetab=pivot:overviewtab). [The Learning Heart](https://www.youtube.com/watch?v=lT5ARSACXWQ) is a HoloLens application that assists students in understanding the elements of the Heart. As a study aid and teaching tool, this application can be used individually or collaboratively by multiple HoloLens users. The holograms are fully three-dimensional and can be traversed around and viewed from any position and angle.
 
 ### 4. Enhance communication
 
