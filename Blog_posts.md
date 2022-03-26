@@ -105,6 +105,8 @@ With  the use of artificial intelligence, cloud computing and mixed reality, Vis
 
 Even though it is pretty obvious that these applications are just a drop in the ocean but I have an eternity to try!!
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/ocean.gif" width="380">
+
 
 # 3. Hololens 2 
 Hololens 2
