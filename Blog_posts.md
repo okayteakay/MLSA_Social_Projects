@@ -63,21 +63,33 @@ All in all, as long as we prioritize innovation to optimize mainstream and profe
 
 As the field of mixed reality will thrive and keep thriving in every aspect of human life let us narrow our exploration to the field of healthcare. Let us explore how mixed reality is changing the game for healthcare, from performing live surgeries to delivering ultrasounds in 3D. As we discover the ways how healthcare sector is leveraging mixed reality, we will also spotlight some of the innovation work we are seeing from organizations who are working to forge the future of healthcare. Here in this blog we have gathered seven interesting and cool applications on how healthcare sector is leveraging mixed reality.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/cool.gif" width="380">
+
 ### 1. Ultrasound simulator
 
-Freed from the limits of a two-dimensional environment inside a monitor, healthcare professionals can display, enlarge, turn, and rotate realistic-looking anatomical parts, or command them to return into the manikin body. Users and those learning with this technology are able to witness (in real time) the ultrasound beam as it cuts through human anatomy. [CAE VimedixAR](https://www.caehealthcare.com/ultrasound-simulation/vimedix/) is the first ultrasound simulator to integrate HoloLens (a Microsoft mixed reality product which we will explore in depth in the later parts of the blog). [CAE](https://www.caehealthcare.com/) is an industry leader in the development of simulation-based technologies, curriculum, and resources that improve clinical performance. With [CAE LucinaAR](https://www.caehealthcare.com/media/files/TechSheets/LucinaAR-Flyer.pdf#:~:text=CAE%20LucinaAR%20levels%20the%20playing%20field%20for%20clinical,of%20anatomy%20as%20well%20as%20responsive%20mother-baby%20physiology.), clinical learners can view 3D holograms of a fetus as it descends the birth canal and gain an unprecedented view of anatomy as they learn to manage a shoulder dystocia delivery.
+Freed from the limits of a two-dimensional environment inside a monitor, healthcare professionals can display, enlarge, turn, and rotate realistic-looking anatomical parts, or command them to return into the manikin body. Users and those learning with this technology are able to witness (in real time) the ultrasound beam as it cuts through human anatomy. [CAE VimedixAR](https://www.caehealthcare.com/ultrasound-simulation/vimedix/) is the first ultrasound simulator to integrate HoloLens (a Microsoft mixed reality product which we will explore in depth in the later parts of the blog).
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/cae.jpg" width="380">
+
+[CAE](https://www.caehealthcare.com/) is an industry leader in the development of simulation-based technologies, curriculum, and resources that improve clinical performance. With [CAE LucinaAR](https://www.caehealthcare.com/media/files/TechSheets/LucinaAR-Flyer.pdf#:~:text=CAE%20LucinaAR%20levels%20the%20playing%20field%20for%20clinical,of%20anatomy%20as%20well%20as%20responsive%20mother-baby%20physiology.), clinical learners can view 3D holograms of a fetus as it descends the birth canal and gain an unprecedented view of anatomy as they learn to manage a shoulder dystocia delivery.
 
 ### 2. Learning tools for nursing professionals
 
 Some of the greatest curricula were delivered to train nurses using mixed reality and the benefit of holographic patients. This extraordinary pieces of the curriculum was developed by Pearson. [HoloPatient from Pearson](https://www.pearson.com/uk/web/pearsontq/news-and-blogs/2017/04/introducing-holopatient.html) is a mixed-reality learning tool for nursing, allied health and medical schools that will deliver simulated patient experiences to more students, at a more manageable cost, and with a greater degree of consistency than ever before. This cutting-edge 3D immersive solution redefines how learners interact with their worlds and each other—bringing learning to life with startling clarity and breathing new possibility into teaching.  HoloPatient uses Microsoft’s Mixed Reality Capture technology allowing tutors and students to engage in a range of learning and assessment activities previously only possible when using actors or by encountering patients in real life.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/pearson.png" width="380">
+
 ### 3. Revolutionize the learning process
 
 [SphereGen](https://www.spheregen.com/) is utilizing mixed reality to create innovative solutions designed to increase efficiency and revolutionize the learning process. SphereGen collaborated with St. George’s University to develop the [Learning Heart](https://www.microsoft.com/en-us/p/learning-heart/9pghzvfwxpmb#activetab=pivot:overviewtab). [The Learning Heart](https://www.youtube.com/watch?v=lT5ARSACXWQ) is a HoloLens application that assists students in understanding the elements of the Heart. As a study aid and teaching tool, this application can be used individually or collaboratively by multiple HoloLens users. The holograms are fully three-dimensional and can be traversed around and viewed from any position and angle.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/learningheart.jpg" width="380">
+
 ### 4. Enhance communication
 
 [DICOM Director](https://www.dicomdirector.com/) is a full product suite designed to enable communication and collaboration between different radiologists, doctors, and medical practices. The backend of this solution enables radiologists to view, transfer and share scans. This solution utilizes HoloLens as a viewer for radiological scans, such as MRIs, CAT scans, and several others. Radiologists and doctors can remotely view their scans through the HoloLens and/or a Windows Mixed Reality headset. The viewing functionality enables the user to see the series of scans, an enlarged view of the selected scan (which they can scroll through), and the 3D model reconstruction from the scans.
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/dicom.jpg" width="380">
 
 ### 5. Live surgery
 
