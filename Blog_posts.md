@@ -57,6 +57,43 @@ After all, this technology is relatively new and is prone to many apprehensions.
 
 All in all, as long as we prioritize innovation to optimize mainstream and professional environments, and as long as Spiderman’s holograms put you at awe, the field of Mixed Reality will thrive and keep thriving.
 
+
+# 2. How is healthcare sector leveraging mixed reality?
+
+
+As the field of mixed reality will thrive and keep thriving in every aspect of human life let us narrow our exploration to the field of healthcare. Let us explore how mixed reality is changing the game for healthcare, from performing live surgeries to delivering ultrasounds in 3D. As we discover the ways how healthcare sector is leveraging mixed reality, we will also spotlight some of the innovation work we are seeing from organizations who are working to forge the future of healthcare. Here in this blog we have gathered seven interesting and cool applications on how healthcare sector is leveraging mixed reality.
+
+### 1. Ultrasound simulator
+
+Freed from the limits of a two-dimensional environment inside a monitor, healthcare professionals can display, enlarge, turn, and rotate realistic-looking anatomical parts, or command them to return into the manikin body. Users and those learning with this technology are able to witness (in real time) the ultrasound beam as it cuts through human anatomy. CAE VimedixAR is the first ultrasound simulator to integrate HoloLens (a Microsoft mixed reality product which we will explore in depth in the later parts of the blog). CAE is an industry leader in the development of simulation-based technologies, curriculum, and resources that improve clinical performance. With CAE LucinaAR, clinical learners can view 3D holograms of a fetus as it descends the birth canal and gain an unprecedented view of anatomy as they learn to manage a shoulder dystocia delivery.
+
+### 2. Learning tools for nursing professionals
+
+Some of the greatest curricula were delivered to train nurses using mixed reality and the benefit of holographic patients. This extraordinary pieces of the curriculum was developed by Pearson. HoloPatient from Pearson is a mixed-reality learning tool for nursing, allied health and medical schools that will deliver simulated patient experiences to more students, at a more manageable cost, and with a greater degree of consistency than ever before. This cutting-edge 3D immersive solution redefines how learners interact with their worlds and each other—bringing learning to life with startling clarity and breathing new possibility into teaching.  HoloPatient uses Microsoft’s Mixed Reality Capture technology allowing tutors and students to engage in a range of learning and assessment activities previously only possible when using actors or by encountering patients in real life.
+
+### 3. Revolutionize the learning process
+
+SphereGen is utilizing mixed reality to create innovative solutions designed to increase efficiency and revolutionize the learning process. SphereGen collaborated with St. George’s University to develop the Learning Heart. The Learning Heart is a HoloLens application that assists students in understanding the elements of the Heart. As a study aid and teaching tool, this application can be used individually or collaboratively by multiple HoloLens users. The holograms are fully three-dimensional and can be traversed around and viewed from any position and angle.
+
+### 4. Enhance communication
+
+DICOM Director is a full product suite designed to enable communication and collaboration between different radiologists, doctors, and medical practices. The backend of this solution enables radiologists to view, transfer and share scans. This solution utilizes HoloLens as a viewer for radiological scans, such as MRIs, CAT scans, and several others. Radiologists and doctors can remotely view their scans through the HoloLens and/or a Windows Mixed Reality headset. The viewing functionality enables the user to see the series of scans, an enlarged view of the selected scan (which they can scroll through), and the 3D model reconstruction from the scans.
+
+### 5. Live surgery
+
+One of the most mind-blowing moments in mixed reality occurred when a live surgery on YouTube was conducted. This was performed by AP-HP, a Paris French hospitals group, assisted by TeraRecon medical holographic platform leveraging Azure GPU and HoloLens. The surgeon was assisted by TeraRecon and their partners to develop the complete end-to-end solution from the patient surgery planning up to the real-time streaming of the real patent image data (pre-operative 3D CT scan) with its full volume rendering in the highest quality ever seen including segmentation of the CT scan. This live surgery was conduct using sharing experience to share the same patient data across multiple HoloLens with the same holographic space (operating room) as well as sharing the HoloLens view with the remote surgeon.
+
+### 6. Enhance capabilities of a doctor
+
+With  the use of artificial intelligence, cloud computing and mixed reality, Visual 3D Medical Science and Technology Development CO. LLC is dedicated to enhance the capability of doctors. By way of research and development, Visual3D’s technology can promote doctor’s ability of perception and appliance of medical information; enhance the remote cooperative abilities of doctors in different places to build a scientific and technological platform for intelligent medical therapy. Visual3D has already performed over 200 hip, knee, and spinal surgeries in China using HoloLens.
+
+### 7. Surgery planning
+
+Digital Pages, a leading Brazilian company in the lifecycle management of digital contents, has developed an interactive application for surgery planning using Microsoft HoloLens. The application offers students, surgeons and healthcare professionals a new perspective on the modeling and manipulation of physical and virtual 3D objects. Next Surgeries introduces the use of holographic projections in surgical planning, reducing the total time of surgeries, the exposure of the patient and staff to radiation and risk of infections, blood loss, etc. 
+
+Even though it is pretty obvious that these applications are just a drop in the ocean but I have an eternity to try!!
+
+
 # 3. Hololens 2 
 Hololens 2
 Microsoft HoloLens 2 is one of the incredible mixed reality tools successfully connecting and blending physical and digital worlds together in augmented reality and virtual reality applications.For years, humans worked  on discovering and exploring the universe, themselves and everything around them. With time came technology. Eevn though this new invention a.k.a technology was thriving and scaled up the speed of evolution, there still stayed a huge gap between human emtoions and the glorified world of technology. thus comes holoens 2 for rescue which bridge this gap between human psyhcology and technolog.For such an immersive experience it uses holographic computing. Now to put in layman words it produces 3 dimensional figures and patterns. Hololens 2 first came into 
