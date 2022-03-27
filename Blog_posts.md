@@ -112,6 +112,7 @@ Even though it is pretty obvious that these applications are just a drop in the 
 Microsoft HoloLens 2 is one of the incredible mixed reality tools successfully connecting and blending physical and digital worlds together in augmented reality and virtual reality applications. For years, humans worked  on discovering and exploring the universe, themselves and everything around them. With time came technology. Eevn though this new invention a.k.a technology was thriving and scaled up the speed of evolution, there still stayed a huge gap between human emotions and the glorified world of technology. Thus comes HoloLens 2 for rescue which bridges this gap between human psyhcology and technology. For such an immersive experience, it uses holographic computing. Now to put in layman words it produces 3 dimensional figures and patterns. Hololens 2 first came into 
 existence by one of the brilliant minds, Alex Kipman. These are the new age , robocap-like headsets manufactured by Microsoft and MicroVision.inc.
 These are not just some dumb heasets givng a 3 dimensional projection of computed images, but rather a huge step towards future. It uses human and environment understanding with some pre-installed softwares. Nothing is perfect, it is the consistent effort to be the best, which makes things perfect; Microsoft is the perfect stand on it.
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/metaverse-g52ab79081_1280.png" width="380">
 
 Despite its amazing augmented reality tool, which is successfully helping various fields and sectors, they keep on updating it from time to time. Recently the new updates were :-
 1. Moving platform mode
@@ -120,6 +121,7 @@ Despite its amazing augmented reality tool, which is successfully helping variou
 
 It allows a user to work hands-free and provide undivided, hassle-free attention to the work. Some of the features include error freehand tracking, built-in voice commands, eye tracking, spatial mapping, and large field of view. It also allows the ease of use, as it can be easily used to monitor and interact with the user's environment. It is not just a technology, but an actual ecosystem. This ecosystem is supported with security, reliability, and scalability of Microsoft Cloud. With some outstanding features like built-in voice commands, eye tracking, hand tracking, etc, what is actually needed is the accuracy, and Hololens 2 definately stands on the top of the charts when it comes to accuracy.
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/giphy.gif" width="380">
 ## Industrial Edition of Hololens 2
 Ever had a FOMO (fear of missing out)?? Well this technology right here gives a big FOMO. Every second you read something new about it and here it another great adaption. Well hololens the Industrial version is the enhanced and redesigned version enabling the user to freely use it in the industrial environment, be a squeaky clean or hazardous environment; This version got you.
 If there is a worker who has to work in loud, dirty and perilious situations, there is TRIMBLE XR10 with hololens 2. This extra added feature allows to view the holograms in bright light, as reader with dark themed whatsapp and instagram you might feel its little off but for the workers in such environment it works really well. It also improves contrast, visibility, and readability of holograms.
@@ -127,6 +129,7 @@ If there is a worker who has to work in loud, dirty and perilious situations, th
 Now heading over to the most interesting part
 
 # 4. Features and Specifications of Hololens 2
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/giphy%20(2).gif" width="380">
 Microsoft HoloLens 2 has been one of the top-selling mixed reality headsets worldwide. Although sales figures do not tell us the full story of how successful a product is, they do give us a heads-up about the product's potential. 
 But, even though the mixed reality market is flooding with much cheaper headsets, what exactly is drawing the techies to HoloLens 2? What sets it apart from other devices in the market? Why is HoloLens 2 so special?
 
@@ -156,7 +159,7 @@ down rather than traditionally used fans.
 13. Pre- Installed Softwares- There are many already installed softwares to make the experience refined. Some of these softwares are very familiar like microsoft edge, mail and calender, file explorer, one drive etc.. Some of the softwares are installed for high service and better experience like Windows holographic operating system (user is able to view apps and games in mixed reality), 3d models (for three dimensional models and animation in real time), etc.
 
 ## Risk analysis
-
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/giphy%20(1).gif" width="380">
 Are you wondering the imapacts of a headgear like device so close to your eyes for long hours?? It is very common, especially after the pandemic the today's generation for peace time off the devices due to the technology strain over physical and mental health. Rest assured dear reader! As this device is unassailable. It has been protected and tested over and over for all the possible damage one wcould come up with. Moreover, it has been tested for psychological strain as well. For eye protection the device is certified with ANSI Z87.1, CSA Z94.3 and EN 166.Thid certifcation right here proves the eye and face protection from all the rays and screen lights. ANSI stands for American National Standards Institute which  aims to make an easy and safe process by focusing on eye safety.
 <img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/mlsa 1.jpg" width="380">
 
