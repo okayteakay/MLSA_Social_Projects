@@ -372,3 +372,24 @@ With the help of the software [BlueGDPR](https://theblue.ai/blue-gdpr-optimizes-
 In February 2022, apoQlar officially released the 1.8.0 version of VSI HoloMedicine. With this latest release, apoQlar became the first company to implement cloud-based rendering technologies for medical mixed reality across multiple continents.
 
 As the need for accurate and accessible medical technology continues to grow, mixed reality solutions like apoQlar have and will become crucial for advancement in the field of healthcare.
+
+# 8. Summary
+
+Developed in the 1990's and popularized by Microsoft mid 2000’s, Mixed reality or MR is a perfect blend, merging AR and VR of the physical and digital worlds and unlocking 3D intuitive human interaction with the virtual globe. With the advancements in technology, MR will be the next big technological boom after AI, paving its path into every dimension of human life.
+
+With its coherent and harmonious synthesis in circadian life, MR finds its way in a varied assortment of entities ranging from E-commerce to Healthcare. The only shackle holding it back are the dearth of input devices. But as long as the cogs of technologies keep spinning, the field of MR will continue to flourish and fly high.
+
+Hololens 2, a Microsoft product is the next big thing wielding the MR paraphernalia and ushering us to the new technological revolution. Taking the form of a headset, bridging the gap between human emotions and technology, hololens 2 is the perfect contrivance for stepping into the future. With its continuous upgrade lifecycle, and meticulous accuracy, hololens 2 becomes the quintessential ecosystem for humans to thrive in. With the additional Industrial edition support for hardcore work environments, the TRIMBLE XR10 addon with hololens makes the exquisite support for such environments. With its ever conglomeration of features like Hand tracking, Eye tracking, Voice commands, Mixed reality capture etc. and the new version of increased compute chips, enhanced memory and 2nd gen custom-built holographic processing unit, hololens allows manipulation of the virtual world like never before. Hololens 2 also includes 6 degrees of freedom, combined with the avant-garde cameras and tracking sensors, the intricate waveguide based high resolution 3D optimized display,  enabling the whole virtual world scale tracking,
+Segwaying to the most perplexing  question about its risk assessment, the hololens 2 has been extensively  tested for psychological and physiological strain on the user and has been certified with the eye and face safety certifications like ANSI Z87.1, CSA Z94.3 and EN 166.
+
+Hololens 2 has transmogrified the healthcare realm. To be able to interact in a 3D world and perform different healthcare procedures on virtual patients to visualize 3D ultrasounds, learn and study the human anatomy in the most immersive way possible by interacting with the actual organ itself and edify doctors and nurses, hololens 2 is literally changing the playing field. How hololens 2 archives all this rather entrancing. Powered by its herculean azure cloud platform, it uses Microsoft Mesh to homogenize the telehealth ecosystem  and is the main brains behind making everything immersive and collaborative. It uses a multilateral technology by first aggregating and normalizing the data from varied health records, then sprinkling some AI magic into it and then finally enabling the patients and doctors to work together.
+
+By aiding in assorted versatile domains in the healthcare industry by sustaining Nursing education, Disaster training, Telemedicine, Emergency response, patient education, cultivating understanding, personalized prostheses and perpetual others, hololens 2 is recasting the healthcare sector by succoring the healthcare sphere in 3 categories: 
+
+### Holographic patient consultation: A picture is always worth a thousand words, but a 3D interactive picture may be worth a fortune. Hololens 2 makes conversing with the patients about a healthcare procedure a breeze.
+### Remote expert consultation: Hololens 2 can make anyone travel a million miles in a jiffy by making them virtually experience things first hand. Patients can be merited by  World class physicians by simply using this paraphernalia in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians.
+### Training simulations: In amalgamation with interactive Kahneman's Hollow Anatomy application, Hololens 2 can prove a virtual environment for physicians to train themselves in a highly anthropomorphized environment. 
+
+
+
+
