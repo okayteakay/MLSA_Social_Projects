@@ -386,9 +386,9 @@ Hololens 2 has transmogrified the healthcare realm. To be able to interact in a 
 
 By aiding in assorted versatile domains in the healthcare industry by sustaining Nursing education, Disaster training, Telemedicine, Emergency response, patient education, cultivating understanding, personalized prostheses and perpetual others, hololens 2 is recasting the healthcare sector by succoring the healthcare sphere in 3 categories: 
 
-### Holographic patient consultation: A picture is always worth a thousand words, but a 3D interactive picture may be worth a fortune. Hololens 2 makes conversing with the patients about a healthcare procedure a breeze.
-### Remote expert consultation: Hololens 2 can make anyone travel a million miles in a jiffy by making them virtually experience things first hand. Patients can be merited by  World class physicians by simply using this paraphernalia in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians.
-### Training simulations: In amalgamation with interactive Kahneman's Hollow Anatomy application, Hololens 2 can prove a virtual environment for physicians to train themselves in a highly anthropomorphized environment. 
+1. Holographic patient consultation: A picture is always worth a thousand words, but a 3D interactive picture may be worth a fortune. Hololens 2 makes conversing with the patients about a healthcare procedure a breeze.
+2. Remote expert consultation: Hololens 2 can make anyone travel a million miles in a jiffy by making them virtually experience things first hand. Patients can be merited by  World class physicians by simply using this paraphernalia in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians.
+3. Training simulations: In amalgamation with interactive Kahneman's Hollow Anatomy application, Hololens 2 can prove a virtual environment for physicians to train themselves in a highly anthropomorphized environment. 
 
 
 
