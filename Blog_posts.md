@@ -112,6 +112,7 @@ Even though it is pretty obvious that these applications are just a drop in the 
 Microsoft HoloLens 2 is one of the incredible mixed reality tools successfully connecting and blending physical and digital worlds together in augmented reality and virtual reality applications. For years, humans worked  on discovering and exploring the universe, themselves and everything around them. With time came technology. Eevn though this new invention a.k.a technology was thriving and scaled up the speed of evolution, there still stayed a huge gap between human emotions and the glorified world of technology. Thus comes HoloLens 2 for rescue which bridges this gap between human psyhcology and technology. For such an immersive experience, it uses holographic computing. Now to put in layman words it produces 3 dimensional figures and patterns. Hololens 2 first came into 
 existence by one of the brilliant minds, Alex Kipman. These are the new age , robocap-like headsets manufactured by Microsoft and MicroVision.inc.
 These are not just some dumb heasets givng a 3 dimensional projection of computed images, but rather a huge step towards future. It uses human and environment understanding with some pre-installed softwares. Nothing is perfect, it is the consistent effort to be the best, which makes things perfect; Microsoft is the perfect stand on it.
+
 Despite its amazing augmented reality tool, which is successfully helping various fields and sectors, they keep on updating it from time to time. Recently the new updates were :-
 1. Moving platform mode
 2. Moving platform mode MDM policies
@@ -149,12 +150,15 @@ down rather than traditionally used fans.
 11. Sensors- the Head tracking sensors have 4 visible light cameras, and Eye tracking has	2 Infrared (IR) cameras. Moreover with a camera of about 8 MP stills, there is Inertial measurement unit (IMU) consisting	Accelerometer, gyroscope, magnetometer. All these sensors allow the human and environment interactions at its peak.
 12. Display- The world class holographich display needs world class display lenses too. Holoelens 2 has 
 (i)Optics which allow See-through holographic lenses (waveguides);
-(ii)Holographic resolutionof about 2k 3:2 light engines (iii) Holographic density>2.5k radiants (light points per radian)(iv) Eye-based rendering	Display optimization for 3D eye position
+(ii)Holographic resolution of about 2k 3:2 light engines;
+(iii) Holographic density>2.5k radiants (light points per radian)
+(iv) Eye-based rendering - Display optimization for 3D eye position
 13. Pre- Installed Softwares- There are many already installed softwares to make the experience refined. Some of these softwares are very familiar like microsoft edge, mail and calender, file explorer, one drive etc.. Some of the softwares are installed for high service and better experience like Windows holographic operating system (user is able to view apps and games in mixed reality), 3d models (for three dimensional models and animation in real time), etc.
 
 ## Risk analysis
 
 Are you wondering the imapacts of a headgear like device so close to your eyes for long hours?? It is very common, especially after the pandemic the today's generation for peace time off the devices due to the technology strain over physical and mental health. Rest assured dear reader! As this device is unassailable. It has been protected and tested over and over for all the possible damage one wcould come up with. Moreover, it has been tested for psychological strain as well. For eye protection the device is certified with ANSI Z87.1, CSA Z94.3 and EN 166.Thid certifcation right here proves the eye and face protection from all the rays and screen lights. ANSI stands for American National Standards Institute which  aims to make an easy and safe process by focusing on eye safety.
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/mlsa 1.jpg" width="380">
 
 
 
