@@ -375,7 +375,11 @@ As the need for accurate and accessible medical technology continues to grow, mi
 
 # 8. Summary
 
-Developed in the 1990's and popularized by Microsoft mid 2000’s, Mixed reality or MR is a perfect blend, merging AR and VR of the physical and digital worlds and unlocking 3D intuitive human interaction with the virtual globe. With the advancements in technology, MR will be the next big technological boom after AI, paving its path into every dimension of human life.
+Take a deep breath! All is well!! 
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/breath.gif" width="380">
+
+This last blog will wrap all this marvelous information in a beautiful box for you to keep track of all that you explored in this journey. Developed in the 1990's and popularized by Microsoft mid 2000’s, Mixed reality or MR is a perfect blend, merging AR and VR of the physical and digital worlds and unlocking 3D intuitive human interaction with the virtual globe. With the advancements in technology, MR will be the next big technological boom after AI, paving its path into every dimension of human life.
 
 With its coherent and harmonious synthesis in circadian life, MR finds its way in a varied assortment of entities ranging from E-commerce to Healthcare. The only shackle holding it back are the dearth of input devices. But as long as the cogs of technologies keep spinning, the field of MR will continue to flourish and fly high.
 
@@ -402,6 +406,18 @@ With Hololens 2 as the tech, several market use cases aiming to revolutionize th
 2. VSI HoloMedicine® has integrated the potential for automatically anonymizing patient records and information and has taken cognizance of safe and compliant handling of patient data with consideration to the General Data Protection Regulation (GDPR).
 apoQlar is the first firm to utilize cloud-based rendering technology for medical mixed reality across various countries with its newest release.
 
+## Can I have a taste of this technology?
 
+Yes, of course! Here are some free apps that you can experiment on to realize the power of Mixed Reality in healthcare. Ever regretted that you should have taken biology stream in high school just to dissect a frog? 
 
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/frog.gif" width="380">
 
+Don't you worry! The first app in our list will help you [learn the fundamentals of the the female frog anatomy in a fully immersive virtual reality experience.](https://www.microsoft.com/en-us/p/vr-frog-dissection-ribbit-ing-discoveries/9mvjk426cbt1?activetab=pivot:overviewtab) 
+
+Now how similar are we to pigs? Find out how much we have in common with these stinky swine through comparative anatomy. [Dissect a pig and learn about our common parts and systems.](https://www.microsoft.com/en-us/p/body-awesome/9n2frtqbbhpm?activetab=pivot:overviewtab)
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/pig.gif" width="380">
+
+With this powerful technology in hand what are the endless possiblilities? **This is the work of science fiction!!!**
+
+<img src="https://github.com/okayteakay/MLSA_Social_Projects/blob/main/images/science.gif" width="380">
