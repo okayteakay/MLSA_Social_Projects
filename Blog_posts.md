@@ -390,6 +390,18 @@ By aiding in assorted versatile domains in the healthcare industry by sustaining
 2. Remote expert consultation: Hololens 2 can make anyone travel a million miles in a jiffy by making them virtually experience things first hand. Patients can be merited by  World class physicians by simply using this paraphernalia in combination with the Microsoft Dynamics 365 Remote Assist enable clinicians.
 3. Training simulations: In amalgamation with interactive Kahneman's Hollow Anatomy application, Hololens 2 can prove a virtual environment for physicians to train themselves in a highly anthropomorphized environment. 
 
+With Hololens 2 as the tech, several market use cases aiming to revolutionize the field of medicine and surgery have emerged in the past. apoQlar and Medivis are two infamous cases where the Hololens 2 technology plays a vital role in diagnosis, detection and treatment.
+
+### Case study : Medivis
+a. Medivis is a New York City-based medical technology company harnessing augmented reality and artificial intelligence to advance medical imaging and surgical navigation. Partnering up with Microsoft for building ‘Surgical AR’ and ‘AnatomyX’, Medivis is ameliorating doctor-patient experience and interaction. It has taken the MR based healthcare sector by storm, with the help of their in-house expertise in neuroanatomy, radiology, mixed-reality technology and countless more.
+b. Surgical AR: By envisaging  and coalescing the latest technological expansion with Augmented reality, AI and surgical visualization, Surgical AR is gaining momentum by getting the 510(K) clearance for clinical use, partnering with Verizon and Microsoft and by landing a whopping $2.3M seed investment, is  decreasing surgical complications and enhancing the patient outcome.
+c. AnatomyX: Designed by keeping industry standards in mind, AnatomyX engages with students by making immersive anatomy models with meticulous QA tests. It houses a real time collaborative 3D immersive space and a complete classroom experience by building quizzes and appointing teachers for users to interact with the anatomy models. It has gained the much needed traction by partnering up with the U.S. Department of Veterans Affairs (VA).
+
+### Case study : apoQlar
+a. apoQlar is the creator of a medical mixed reality platform that is changing the way people practice, study, and communicate medicine. VSI HoloMedicine® is a medically approved software platform that uses Microsoft HoloLens technology to turn medical imaging, clinical processes, and medical education into a 3D mixed reality environment by Improving patient outcomes, enhancing physician clinical experience, and training tomorrow's doctors with VSI HoloMedicine®.
+b. VSI HoloMedicine® has integrated the potential for automatically anonymizing patient records and information and has taken cognizance of safe and compliant handling of patient data with consideration to the General Data Protection Regulation (GDPR).
+apoQlar is the first firm to utilize cloud-based rendering technology for medical mixed reality across various countries with its newest release.
+
 
 
 
